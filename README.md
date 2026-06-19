@@ -1,4 +1,4 @@
-<h1>TPE Especial</h1>
+<h1>TPE Especial: Benjamin Herrera y Felicitas Giacomaso</h1>
 
 Este proyecto resuelve el problema de asignación de paquetes en una flota de camiones y todos los servicios requeridos de forma eficiente, con codigo legible, sin redundancia y respetando el encapsulamiento
 
