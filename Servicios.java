@@ -163,7 +163,7 @@ public class Servicios{
         ArrayList<Paquete> paquetesEnRango = new ArrayList<>();
 
         //uso min-1 para ajustar a los indices del array (urgencia 1 en indice 0)
-        for (int i = min; i < max; i++) {
+        for (int i = min; i <= max; i++) {
             if(this.paquetesPorUrgencia.containsKey(i)) {
                 paquetesEnRango.addAll(this.paquetesPorUrgencia.get(i));
             }
